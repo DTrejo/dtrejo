@@ -1,4 +1,4 @@
-Pinned repositories
+Pinned
 ### 📗 [dotfiles](https://github.com/dtrejo/dotfiles)
 DTrejo's Dotfiles       
   
